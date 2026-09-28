@@ -1,38 +1,39 @@
 ---
-title: "docs documentation"
-description: "Route every reader of the docs docs in one pass — newcomers to getting started, everybody else to the guides, reference or concepts."
+title: Студия по SEO и геопродвижению
+description: Современные красивые сайты и их оптимизация для SEO и геопродвижения.
 status: generated
-version: "0.1"
+version: "0.2"
 ---
 
 <!-- widget:hero -->
 
-**Documentation**
+**SEO и геопродвижение**
 
-# docs documentation
+# Современный сайт, подготовленный к продвижению
 
-The front door. Keep it short: a sentence on what docs is, a sentence on who it is for, then let the links do the routing.
+Студия создаёт современные красивые сайты и оптимизирует их для SEO и геопродвижения. Эта документация описывает услуги по материалам владельца; подробности процесса ещё уточняются.
 
-- [Getting started](getting-started.md) {rocket}
-- [Guides](guides/overview.md) {compass}
-- [Reference](reference/overview.md) {braces}
-- [Concepts](concepts/overview.md) {book-open}
-
-<!-- /widget -->
-
-<!-- widget:cards cols=2 -->
-
-- [Getting started](getting-started.md) — From nothing to one working result {rocket}
-- [Guides](guides/overview.md) — One page per job somebody came to do {compass}
-- [Reference](reference/overview.md) — Options, fields and values, built to be scanned {braces}
-- [Concepts](concepts/overview.md) — The ideas the rest of the site assumes {book-open}
-- [FAQ](faq.md) — The questions you answer by hand today {circle-help}
-- [Changelog](changelog.md) — What changed, newest first {history}
+- [Начать знакомство](./getting-started.md) — что известно о работе студии
+- [Современные сайты](./concepts/modern-websites.md) — заявленное направление
+- [SEO](./guides/seo.md) — оптимизация сайтов
+- [Геопродвижение](./guides/geopromotion.md) — продвижение с географическим фокусом
+- [Стоимость](./pricing.md) — указанные варианты оплаты
 
 <!-- /widget -->
 
-<!-- widget:callout type=tip -->
+## Что делает студия
 
-Whatever you would explain here at length belongs on the page it points at instead. A front door that answers questions stops being a door.
+Студия объединяет создание сайтов и их последующую оптимизацию. Владелец описывает результат как современные и красивые сайты, подготовленные к продвижению.
+
+<!-- widget:cards feature cols=2 -->
+
+- [Современные сайты](./concepts/modern-websites.md) — создание визуально современных сайтов
+- [SEO](./guides/seo.md) — оптимизация сайта для поискового продвижения {color:#2563eb}
+- [Геопродвижение](./guides/geopromotion.md) — направление продвижения, связанное с географией {color:#16a34a}
+- [Стоимость](./pricing.md) — два названных уровня оплаты {color:#d97706}
 
 <!-- /widget -->
+
+## Что пока не описано
+
+В исходном описании нет списка этапов, состава работ, сроков, примеров проектов, контактов или страницы для обращения. Эти сведения нужно добавить перед публикацией подробной версии.
