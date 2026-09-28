@@ -1,23 +1,31 @@
 ---
-title: "Getting started"
-description: "Carry a first-time reader of docs from nothing to one working result, with every step spelled out and no setup assumed."
+title: С чего начать
+description: Первые шаги для клиента студии по SEO и геопродвижению.
 status: generated
-version: "0.1"
+version: "0.2"
 ---
 
-# Getting started
+Чтобы начать работу со студией, сначала нужно обсудить задачу и выбрать подходящий объём работ. Владелец не указал способ связи, порядок заявки и список материалов от клиента.
 
-This page has one job: take somebody from nothing to a first working result with docs. Write it as numbered steps, and make the last step produce something the reader can see.
+<!-- widget:stepper -->
 
-Two rules keep it useful. Assume no prior setup — name the account, the install, the file. And stop at the first result; everything after that is a guide, not this page.
+## 1. Опишите задачу
 
-Where a step needs a value only the reader has, say where they find it rather than guessing it for them.
+Подготовьте сведения о сайте или проекте и о том, какого результата вы ожидаете. Точный список вводных пока не определён.
 
-<!-- widget:cards plain cols=2 -->
+## 2. Обсудите сайт и продвижение
 
-## Next steps
+Студия заявляет два направления: создание современных красивых сайтов и их оптимизацию для SEO и геопродвижения. Конкретный состав работ нужно согласовать.
 
-- [Guides](guides/overview.md) — The jobs that come after the first result {compass}
-- [Reference](reference/overview.md) — Every option, once it starts to matter {braces}
+## 3. Выберите объём
+
+В материалах названы базовый вариант за `$500` разово и вариант за `$1,000` для доведения до «самых крутых результатов». Различия между ними и точное назначение платежей требуют уточнения.
 
 <!-- /widget -->
+
+## Что нужно уточнить
+
+- Как подать заявку и куда написать?
+- Что клиент должен предоставить до начала работы?
+- Какие этапы входят в каждый вариант?
+- Что означает «геопродвижение» в работе студии?
